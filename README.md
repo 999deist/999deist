@@ -10,7 +10,7 @@ from telegram.ext.updater import Updater
 
 from telegram.update import Update
 
-BOT_KEY = "<YOUR_BOT_KEY_HERE>"
+BOT_KEY = "<7562264903:AAG2xEPrtFUFMR0Xlj7KCBScEILCAJdlwtw>"
 
 def start(update: Update, context: CallbackContext):
 
